@@ -1,64 +1,29 @@
-<h1 align="center">Привет 👋, я Даниил </h1>
-<h3 align="center">Full-Stack Developer | Python & TypeScript | Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm italones</h1>
+<h3 align="center">A passionate developer from the world</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ТВОЙ_НИК?label=Followers&style=social" alt="followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things." alt="Typing SVG" />
 </p>
 
----
-
-### 🚀 Обо мне
-
-- 🔭 Сейчас работаю над **крутым проектом**
-- 🌱 Изучаю **Rust** и **ADO.NET**
-- 💬 Спроси меня о **Python, VS Code 2019 , VS Code 2022 **
-- 📫 Связаться: **tictac222@mail.ru**
-- ⚡ Факт: *люблю чистый код и крепкий кофе* ☕
-
----
-
-### 🛠️ Мой стек
-
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,fastapi,django,docker,kubernetes,postgres,redis,git,linux,vscode&perline=7" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
----
-
-### 📊 Статистика
-
+### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italones&show_icons=true&theme=radical&hide_border=true" alt="italones's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italones&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_НИК&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📈 График активности
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🌐 Соцсети
-
-<p align="center">
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italones/italones/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italones/italones/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/italones/italones/output/github-snake.svg">
+  </picture>
 </p>
